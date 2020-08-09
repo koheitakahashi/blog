@@ -1,0 +1,11 @@
+{
+  "filters": {},
+  "rules": {
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true,
+    "spellcheck-tech-word": true,
+    "no-exclamation-question-mark": true,
+    "ja-no-redundant-expression": true,
+    "preset-ja-technical-writing": true
+  }
+}
