@@ -6,6 +6,7 @@
     "spellcheck-tech-word": true,
     "no-exclamation-question-mark": true,
     "ja-no-redundant-expression": true,
-    "preset-ja-technical-writing": true
+    "preset-ja-technical-writing": true,
+    "ja-technical-writing/ja-no-mixed-period": false
   }
 }
